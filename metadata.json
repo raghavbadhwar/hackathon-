@@ -1,0 +1,5 @@
+{
+  "name": "KalaMitra AI Photoshoot",
+  "description": "An AI-powered assistant for Indian artisans to create professional lifestyle shots and product scenes from their raw photos using Gemini. Upload a product photo, describe a scene, and let the AI generate a new image.",
+  "requestFramePermissions": []
+}
